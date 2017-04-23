@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android ActionBar</string>
+    <string name="main_activity_text">Main Activity</string>
+    <string name="voice_option">Voice</string>
+    <string name="call_option">Call</string>
+    <string name="check_option">Check List</string>
+    <string name="contacts_option">Contacts</string>
+    <string name="settings_option">Settings</string>
+    <string name="status_option">Status</string>
+</resources>

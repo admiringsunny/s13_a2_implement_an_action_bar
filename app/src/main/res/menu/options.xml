@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app='http://schemas.android.com/apk/res-auto'>
+
+    <item
+        android:id="@+id/voice_option"
+        android:icon="@drawable/abc_ic_voice_search_api_mtrl_alpha"
+        android:title="@string/voice_option"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/call_option"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="@string/call_option"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/check_list_option"
+        android:icon="@android:drawable/checkbox_on_background"
+        android:title="@string/check_option"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/contacts_option"
+        android:icon="@android:drawable/sym_contact_card"
+        android:title="@string/contacts_option"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/settings_option"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="@string/settings_option"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/status_option"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="@string/status_option"
+        app:showAsAction="never"/>
+
+
+
+
+
+</menu>
